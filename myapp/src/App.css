@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.category-city{
+  background-color: rgb(194, 229, 229);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.select{
+  border: 2px solid #999;
+  height: 30px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-left: 20px;
+  padding-left: 5px;
+}
